@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a 2nd year software engineering student with a strong foundation in C++, C, Python, and<br>web development. I’m in particular passionate about Data Structures and Algorithms, Machine Learning and Web development.
+I’m a 2nd year software engineering student with a strong foundation in C++, C, Python, and<br>web development. In particular I'm passionate about Data Structures and Algorithms, Machine Learning and Web development.
 
 
 ## 🌐 Socials:
