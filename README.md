@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, My name is Veljko. I'm a Software Engineering student with a strong foundation in web development and machine learning.
+ Hi, My name is Veljko. I'm a Software Engineering student with a strong foundation in web development, computer architecture and machine learning.
 
 
 ## 🌐 Socials:
